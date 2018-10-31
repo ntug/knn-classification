@@ -1,7 +1,7 @@
 # knn-classification
 
 In this project, I build a classifier that guesses a movie’s genre by training data from the IMDB screenplay
-dataset, using k-nearest neighbors.
+dataset, using k-nearest neighbors. This was a project I worked on in one of my classes during undergrad and I am hoping to increase its accuracy soon.
 
 General outline of the project:
 1. From available data, select test and training sets.
